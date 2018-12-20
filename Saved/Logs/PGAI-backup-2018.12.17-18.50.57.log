@@ -1,0 +1,1590 @@
+﻿Log file open, 12/17/18 17:27:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PGAI
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.275922
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.071s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 980 Ti
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Engine.ini]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Engine.ini]
+[2018.12.17-17.27.34:429][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Engine.ini]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Engine.ini]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.17-17.27.34:429][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.17-17.27.34:430][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.17-17.27.34:430][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.17-17.27.34:430][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Engine.ini]
+[2018.12.17-17.27.34:430][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Engine.ini]
+[2018.12.17-17.27.34:439][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.17-17.27.34:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.17-17.27.34:440][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.17-17.27.34:440][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.17-17.27.34:440][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.17-17.27.34:456][  0]LogHAL: Display: Platform has ~ 16 GB [17116696576 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.17-17.27.34:456][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.17-17.27.34:456][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.17-17.27.34:456][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-17.27.34:456][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.17-17.27.34:456][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.17-17.27.34:456][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-17.27.34:456][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.17-17.27.34:456][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-17.27.34:456][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Scalability.ini]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.17-17.27.34:457][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.17-17.27.34:457][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Config/Windows/Engine.ini]
+[2018.12.17-17.27.34:458][  0]LogInit: Computer: VIGOR-VANQUISH
+[2018.12.17-17.27.34:458][  0]LogInit: User: James
+[2018.12.17-17.27.34:458][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.17-17.27.34:458][  0]LogInit: High frequency timer resolution =3.514610 MHz
+[2018.12.17-17.27.34:458][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.17-17.27.34:458][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.17-17.27.34:458][  0]LogMemory: Process Physical Memory: 109.56 MB used, 109.56 MB peak
+[2018.12.17-17.27.34:458][  0]LogMemory: Process Virtual Memory: 97.82 MB used, 97.82 MB peak
+[2018.12.17-17.27.34:458][  0]LogMemory: Physical Memory: 7366.57 MB used,  8957.18 MB free, 16323.75 MB total
+[2018.12.17-17.27.34:458][  0]LogMemory: Virtual Memory: 4673.81 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2018.12.17-17.27.34:475][  0]LogInit: Using OS detected language (en-GB).
+[2018.12.17-17.27.34:475][  0]LogInit: Using OS detected locale (en-GB).
+[2018.12.17-17.27.34:475][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.12.17-17.27.34:845][  0]LogStreaming: Display: Took  0.371s to InitEngineTextLocalization.
+[2018.12.17-17.27.34:846][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.17-17.27.34:895][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.17-17.27.34:895][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.17-17.27.35:070][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.17-17.27.35:116][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2018.12.17-17.27.35:116][  0]LogD3D11RHI:       6097/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.12.17-17.27.35:118][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.17-17.27.35:118][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.17-17.27.35:118][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.17-17.27.35:124][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.17-17.27.35:125][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.17-17.27.35:125][  0]LogWindows: EnumDisplayDevices:
+[2018.12.17-17.27.35:125][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2018.12.17-17.27.35:125][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2018.12.17-17.27.35:125][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2018.12.17-17.27.35:125][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.12.17-17.27.35:125][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.17-17.27.35:125][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2018.12.17-17.27.35:125][  0]LogD3D11RHI:   Driver Version: 417.22 (internal:25.21.14.1722, unified:417.22)
+[2018.12.17-17.27.35:125][  0]LogD3D11RHI:      Driver Date: 11-29-2018
+[2018.12.17-17.27.35:125][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2018.12.17-17.27.35:161][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.17-17.27.35:193][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.17-17.27.35:483][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.17-17.27.35:496][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.17-17.27.35:508][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.17-17.27.35:522][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.17-17.27.35:535][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.17-17.27.35:548][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.17-17.27.35:560][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.17-17.27.35:573][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.17-17.27.35:578][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.17-17.27.35:648][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:649][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-17.27.35:650][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.17-17.27.35:708][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.17-17.27.35:708][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.17-17.27.35:731][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.17-17.27.35:731][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.17-17.27.35:743][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.17-17.27.35:755][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.17-17.27.35:767][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.17-17.27.35:780][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.17-17.27.35:830][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.17-17.27.35:830][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.17-17.27.35:830][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.17-17.27.35:910][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/James/Documents/Unreal Projects/PGAI/Intermediate/Shaders/WorkingDirectory/1868/).
+[2018.12.17-17.27.35:910][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/James/AppData/Local/Temp/UnrealShaderWorkingDir/4D8F972F49DB9022429C739C2B62ECBD/'.
+[2018.12.17-17.27.35:912][  0]LogXGEController: Cleaning working directory: C:/Users/James/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.17-17.27.35:913][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.17-17.27.35:913][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.17-17.27.35:913][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.17-17.27.36:413][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.17-17.27.36:461][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/James/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.17-17.27.36:461][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/James/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.17-17.27.36:461][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/James/Documents/Unreal Projects/PGAI/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.17-17.27.36:461][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.17-17.27.36:461][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/James/Documents/Unreal Projects/PGAI/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.17-17.27.36:461][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.17-17.27.36:473][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.17-17.27.36:473][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.17-17.27.36:473][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.17-17.27.36:485][  0]LogDerivedDataCache: Using Local data cache path C:/Users/James/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.17-17.27.36:485][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.17-17.27.36:485][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.17-17.27.36:508][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.17-17.27.36:509][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.17-17.27.36:509][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.17-17.27.36:592][  0]LogAssetRegistry: FAssetRegistry took 0.0329 seconds to start up
+[2018.12.17-17.27.36:888][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.17-17.27.37:032][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.17-17.27.37:035][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.17-17.27.37:035][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.17-17.27.37:035][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.17-17.27.37:035][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.17-17.27.37:047][  0]LogNetVersion: PGAI 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 457385152)
+[2018.12.17-17.27.37:526][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.096893 seconds
+[2018.12.17-17.27.37:532][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.17-17.27.37:532][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.12.17-17.27.37:532][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.17-17.27.38:317][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.17-17.27.38:331][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.17-17.27.38:930][  0]SourceControl: Source control is disabled
+[2018.12.17-17.27.38:930][  0]SourceControl: Source control is disabled
+[2018.12.17-17.27.38:932][  0]SourceControl: Source control is disabled
+[2018.12.17-17.27.38:933][  0]SourceControl: Source control is disabled
+[2018.12.17-17.27.39:089][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.17-17.27.39:195][  0]LogOcInput: OculusInput pre-init called
+[2018.12.17-17.27.39:330][  0]LogEngine: Initializing Engine...
+[2018.12.17-17.27.39:331][  0]LogHMD: Oculus plugin initialized. Version: 4.21.1-4613538+++UE4+Release-4.21, OVRPlugin: 1.28.0
+[2018.12.17-17.27.39:332][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.17-17.27.39:332][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.17-17.27.39:332][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.17-17.27.39:332][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.17-17.27.39:547][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.17-17.27.39:560][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.17-17.27.39:585][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-17.27.39:600][  0]LogInit: FAudioDevice initialized.
+[2018.12.17-17.27.39:600][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.17-17.27.39:727][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/James/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.17-17.27.39:738][  0]LogInit: Texture streaming: Enabled
+[2018.12.17-17.27.39:752][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.17-17.27.39:768][  0]LogInit: Transaction tracking system initialized
+[2018.12.17-17.27.39:789][  0]BlueprintLog: New page: Editor Load
+[2018.12.17-17.27.39:857][  0]LocalizationService: Localization service is disabled
+[2018.12.17-17.27.40:317][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/PGAI/Content/' took 0.02s
+[2018.12.17-17.27.40:317][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.17-17.27.40:317][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.17-17.27.40:317][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.17-17.27.40:317][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.17-17.27.40:317][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.17-17.27.40:317][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.17-17.27.40:317][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.17-17.27.40:438][  0]SourceControl: Source control is disabled
+[2018.12.17-17.27.40:438][  0]Cmd: MAP LOAD FILE="../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/Maps/Spaceship.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.17-17.27.40:439][  0]LightingResults: New page: Lighting Build
+[2018.12.17-17.27.40:441][  0]MapCheck: New page: Map Check
+[2018.12.17-17.27.40:441][  0]LightingResults: New page: Lighting Build
+[2018.12.17-17.27.41:306][  0]LogAIModule: Creating AISystem for world Spaceship
+[2018.12.17-17.27.41:372][  0]LogBlueprintUserMessages: [AlienCharacter2_5] 15
+[2018.12.17-17.27.41:372][  0]LogBlueprintUserMessages: [AlienCharacter3_8] 15
+[2018.12.17-17.27.41:372][  0]LogBlueprintUserMessages: [AlienCharacter4_11] 15
+[2018.12.17-17.27.41:372][  0]LogBlueprintUserMessages: [AlienCharacter_2] 15
+[2018.12.17-17.27.41:372][  0]LogBlueprintUserMessages: [CrewCharacter2_5] 15
+[2018.12.17-17.27.41:372][  0]LogBlueprintUserMessages: [CrewCharacter_2] 15
+[2018.12.17-17.27.41:372][  0]LogBlueprintUserMessages: [TopDownCharacter2] 15
+[2018.12.17-17.27.41:372][  0]LogBlueprintUserMessages: [TopDownCharacter3] 15
+[2018.12.17-17.27.41:372][  0]LogBlueprintUserMessages: [TopDownCharacter4] 15
+[2018.12.17-17.27.41:372][  0]LogBlueprintUserMessages: [TopDownCharacter_2] 15
+[2018.12.17-17.27.41:373][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.17-17.27.41:395][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.17-17.27.41:396][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.165ms to complete.
+[2018.12.17-17.27.41:396][  0]LogFileHelpers: Loading map 'Spaceship' took 0.957
+[2018.12.17-17.27.41:490][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.27.41:497][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.27.41:504][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.27.41:511][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.27.41:516][  0]LogCollectionManager: Loaded 0 collections in 0.001380 seconds
+[2018.12.17-17.27.41:531][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/PGAI/Saved/Collections/' took 0.01s
+[2018.12.17-17.27.41:532][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/PGAI/Content/Developers/James/Collections/' took 0.00s
+[2018.12.17-17.27.41:532][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/PGAI/Content/Collections/' took 0.00s
+[2018.12.17-17.27.41:532][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.17-17.27.41:540][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2651 classes and 620 folders.
+[2018.12.17-17.27.41:545][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.17-17.27.41:547][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:547][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:547][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:548][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:548][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:548][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:549][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:549][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:550][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:550][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:550][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:552][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:552][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:552][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:553][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:553][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:554][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:554][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:555][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:555][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:556][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:556][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:556][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.17-17.27.41:585][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.17-17.27.41:592][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.17-17.27.41:665][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.17-17.27.41:666][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.17-17.27.41:672][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.17-17.27.41:751][  0]LogRenderer: Reallocating scene render targets to support 1068x596 Format 10 NumSamples 1 (Frame:1).
+[2018.12.17-17.27.41:874][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.17-17.27.41:874][  0]LogLoad: (Engine Initialization) Total time: 9.20 seconds
+[2018.12.17-17.27.41:874][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.17-17.27.41:885][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.17-17.27.41:886][  0]LogOcInput: OculusInput is initialized
+[2018.12.17-17.27.41:936][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.17-17.27.41:963][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.17-17.27.42:084][  2]LogAssetRegistry: Asset discovery search completed in 5.5135 seconds
+[2018.12.17-17.27.42:086][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.17-17.27.42:086][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2018.12.17-17.27.42:905][ 96]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.17-17.27.49:179][804]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door3)
+[2018.12.17-17.27.50:524][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.31.08:175][493]LogSlate: Took 0.004713 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.17-17.31.09:116][599]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.17-17.31.09:137][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.31.09:137][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-17.31.09:138][599]LogHMD: Initializing OVRPlugin session
+[2018.12.17-17.31.09:231][599]PIE: New page: PIE session: Spaceship (17 Dec 2018 17:31:09)
+[2018.12.17-17.31.09:244][599]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Spaceship
+[2018.12.17-17.31.09:257][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012878s)
+[2018.12.17-17.31.09:258][599]LogAIModule: Creating AISystem for world Spaceship
+[2018.12.17-17.31.09:258][599]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2018.12.17-17.31.09:258][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Spaceship.Spaceship to /Game/Maps/UEDPIE_0_Spaceship.Spaceship (0.014104s)
+[2018.12.17-17.31.09:299][599]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-17.31.09:312][599]LogInit: FAudioDevice initialized.
+[2018.12.17-17.31.09:357][599]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.17-17.31.09:367][599]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Spaceship.Spaceship up for play (max tick rate 0) at 2018.12.17-17.31.09
+[2018.12.17-17.31.09:369][599]LogWorld: Bringing up level for play took: 0.010947
+[2018.12.17-17.31.09:386][599]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2018.12.17-17.31.09:390][599]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Spaceship 0.276
+[2018.12.17-17.31.09:391][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.31.12:566][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.31.23:463][275]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.31.23:471][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.31.23:507][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-17.31.23:508][275]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.31.23:530][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.31.23:564][278]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.12.17-17.31.26:886][673]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door3)
+[2018.12.17-17.31.29:590][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.31.31:654][208]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TilePieces/Door.Door
+[2018.12.17-17.31.32:172][208]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2018.12.17-17.31.32:953][208]LogSlate: Took 0.003656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.17-17.31.39:058][571]LogRenderer: Reallocating scene render targets to support 1268x704 Format 10 NumSamples 1 (Frame:1).
+[2018.12.17-17.31.48:182][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.31.49:963][341]BlueprintLog: New page: Compile Door
+[2018.12.17-17.32.02:751][284]LogEditorTransaction: Undo Modify Component(s)
+[2018.12.17-17.32.03:470][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.32.03:550][344]BlueprintLog: New page: Compile Door
+[2018.12.17-17.32.09:179][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.32.12:842][ 45]BlueprintLog: New page: Compile Door
+[2018.12.17-17.32.13:466][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TilePieces/Door" FILE="../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/TilePieces/Door.uasset" SILENT=true
+[2018.12.17-17.32.13:539][ 66]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Saved/Door22206DA8423465F1F70874AE908E942E.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/TilePieces/Door.uasset'
+[2018.12.17-17.32.15:199][218]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door3)
+[2018.12.17-17.32.16:545][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.32.24:444][271]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door3)
+[2018.12.17-17.32.24:553][281]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (LockMesh)
+[2018.12.17-17.32.27:797][638]LogEditorViewport: Clicking on Actor (LMB): BaseTile_C (BaseTile6)
+[2018.12.17-17.32.28:573][698]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door3)
+[2018.12.17-17.32.30:943][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.32.41:067][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-17.32.45:479][325]BlueprintLog: New page: Compile Door
+[2018.12.17-17.32.46:239][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TilePieces/Door" FILE="../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/TilePieces/Door.uasset" SILENT=true
+[2018.12.17-17.32.46:311][344]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Saved/DoorE35DB7A04DA4A22AED617B90F2B2D6C1.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/TilePieces/Door.uasset'
+[2018.12.17-17.32.46:909][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.32.51:592][868]LogEditorViewport: Clicking on Actor (LMB): DoorWall_C (DoorWall5)
+[2018.12.17-17.32.52:302][946]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door3)
+[2018.12.17-17.32.53:461][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.32.56:019][377]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.17-17.32.56:048][377]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.32.56:048][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-17.32.56:048][377]LogHMD: Initializing OVRPlugin session
+[2018.12.17-17.32.56:102][377]PIE: New page: PIE session: Spaceship (17 Dec 2018 17:32:56)
+[2018.12.17-17.32.56:102][377]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Spaceship
+[2018.12.17-17.32.56:116][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013469s)
+[2018.12.17-17.32.56:116][377]LogAIModule: Creating AISystem for world Spaceship
+[2018.12.17-17.32.56:116][377]LogPlayLevel: PIE: World Init took: (0.000495s)
+[2018.12.17-17.32.56:116][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Spaceship.Spaceship to /Game/Maps/UEDPIE_0_Spaceship.Spaceship (0.014115s)
+[2018.12.17-17.32.56:156][377]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-17.32.56:168][377]LogInit: FAudioDevice initialized.
+[2018.12.17-17.32.56:203][377]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.17-17.32.56:215][377]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Spaceship.Spaceship up for play (max tick rate 0) at 2018.12.17-17.32.56
+[2018.12.17-17.32.56:217][377]LogWorld: Bringing up level for play took: 0.013143
+[2018.12.17-17.32.56:233][377]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Spaceship 1.118
+[2018.12.17-17.32.56:233][377]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.32.58:814][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.33.08:731][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.33.08:815][792]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.33.08:815][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.33.08:854][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-17.33.08:854][792]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.33.08:882][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.33.08:919][795]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.12.17-17.34.22:353][648]Cmd: DELETE
+[2018.12.17-17.34.22:353][648]Cmd: ACTOR DELETE
+[2018.12.17-17.34.22:360][648]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2018.12.17-17.34.22:389][648]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.12.17-17.34.24:760][932]Cmd: TRANSACTION UNDO
+[2018.12.17-17.34.24:760][932]LogEditorTransaction: Undo Delete Actors
+[2018.12.17-17.35.11:417][623]LogSlate: Took 0.118574 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.12.17-17.35.19:965][601]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.17-17.35.19:986][601]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.35.19:986][601]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.17-17.35.20:002][601]LogPlayLevel: [PlayLevel] Compiling Door before play...
+[2018.12.17-17.35.20:234][601]LogPlayLevel: PlayLevel: Blueprint regeneration took 247 ms (1 blueprints)
+[2018.12.17-17.35.20:234][601]PIE: New page: PIE session: Spaceship (17 Dec 2018 17:35:20)
+[2018.12.17-17.35.20:234][601]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Spaceship
+[2018.12.17-17.35.20:248][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013832s)
+[2018.12.17-17.35.20:249][601]LogAIModule: Creating AISystem for world Spaceship
+[2018.12.17-17.35.20:249][601]LogPlayLevel: PIE: World Init took: (0.000499s)
+[2018.12.17-17.35.20:249][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Spaceship.Spaceship to /Game/Maps/UEDPIE_0_Spaceship.Spaceship (0.014552s)
+[2018.12.17-17.35.20:294][601]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-17.35.20:305][601]LogInit: FAudioDevice initialized.
+[2018.12.17-17.35.20:339][601]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.17-17.35.20:349][601]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Spaceship.Spaceship up for play (max tick rate 0) at 2018.12.17-17.35.20
+[2018.12.17-17.35.20:351][601]LogWorld: Bringing up level for play took: 0.011798
+[2018.12.17-17.35.20:367][601]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Spaceship 1.252
+[2018.12.17-17.35.20:367][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.35.30:343][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.35.30:437][783]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.35.30:444][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.35.30:480][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-17.35.30:481][783]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.35.30:512][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.35.30:544][784]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.12.17-17.35.57:168][388]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.PGAI
+[2018.12.17-17.35.57:168][388]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.12.17-17.35.57:168][388]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2018.12.17-17.35.57:168][388]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.12.17-17.35.57:168][388]LogTemp: BranchPath = VIGOR-VANQUISH/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = VIGOR-VANQUISH/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2018.12.17-17.35.57:168][388]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.12.17-17.35.57:393][389]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\James\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.12.17-17.36.08:432][591]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.17-17.36.08:463][591]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.36.08:463][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-17.36.08:463][591]LogHMD: Initializing OVRPlugin session
+[2018.12.17-17.36.08:516][591]PIE: New page: PIE session: Spaceship (17 Dec 2018 17:36:08)
+[2018.12.17-17.36.08:517][591]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Spaceship
+[2018.12.17-17.36.08:529][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012527s)
+[2018.12.17-17.36.08:530][591]LogAIModule: Creating AISystem for world Spaceship
+[2018.12.17-17.36.08:530][591]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2018.12.17-17.36.08:530][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Spaceship.Spaceship to /Game/Maps/UEDPIE_0_Spaceship.Spaceship (0.013196s)
+[2018.12.17-17.36.08:573][591]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-17.36.08:585][591]LogInit: FAudioDevice initialized.
+[2018.12.17-17.36.08:613][591]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.17-17.36.08:622][591]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Spaceship.Spaceship up for play (max tick rate 0) at 2018.12.17-17.36.08
+[2018.12.17-17.36.08:625][591]LogWorld: Bringing up level for play took: 0.010932
+[2018.12.17-17.36.08:640][591]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Spaceship -0.475
+[2018.12.17-17.36.08:641][591]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.36.10:853][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.36.20:980][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.36.21:063][924]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.36.21:063][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.36.21:101][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-17.36.21:102][924]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.36.21:131][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.36.21:165][927]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.12.17-17.37.38:683][663]LogSlate: Window 'Project Settings' being destroyed
+[2018.12.17-17.37.38:688][663]LogSlate: Window 'Project Settings' being destroyed
+[2018.12.17-17.38.04:069][108]BlueprintLog: New page: Compile Door
+[2018.12.17-17.38.04:740][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TilePieces/Door" FILE="../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/TilePieces/Door.uasset" SILENT=true
+[2018.12.17-17.38.04:813][138]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Saved/Door08987ADC40C69A9D65BBC085736A6373.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/TilePieces/Door.uasset'
+[2018.12.17-17.38.06:414][305]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.17-17.38.06:444][305]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.38.06:444][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-17.38.06:445][305]PIE: New page: PIE session: Spaceship (17 Dec 2018 17:38:06)
+[2018.12.17-17.38.06:445][305]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Spaceship
+[2018.12.17-17.38.06:457][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012191s)
+[2018.12.17-17.38.06:457][305]LogAIModule: Creating AISystem for world Spaceship
+[2018.12.17-17.38.06:458][305]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2018.12.17-17.38.06:458][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Spaceship.Spaceship to /Game/Maps/UEDPIE_0_Spaceship.Spaceship (0.012860s)
+[2018.12.17-17.38.06:498][305]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-17.38.06:508][305]LogInit: FAudioDevice initialized.
+[2018.12.17-17.38.06:544][305]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.17-17.38.06:554][305]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Spaceship.Spaceship up for play (max tick rate 0) at 2018.12.17-17.38.06
+[2018.12.17-17.38.06:556][305]LogWorld: Bringing up level for play took: 0.011230
+[2018.12.17-17.38.06:571][305]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Spaceship -0.543
+[2018.12.17-17.38.06:572][305]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.38.11:798][892]LogEditorViewport: Clicking on Actor (LMB): BaseTile_C (BaseTile6)
+[2018.12.17-17.38.18:023][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.38.19:954][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.38.21:929][962]Cmd: RebuildNavigation
+[2018.12.17-17.38.21:937][962]Command not recognized: RebuildNavigation
+[2018.12.17-17.38.21:938][962]Cmd: RebuildNavigation
+[2018.12.17-17.38.21:945][962]Command not recognized: RebuildNavigation
+[2018.12.17-17.38.21:946][962]Cmd: RebuildNavigation
+[2018.12.17-17.38.21:954][962]Command not recognized: RebuildNavigation
+[2018.12.17-17.38.21:954][962]Cmd: RebuildNavigation
+[2018.12.17-17.38.21:962][962]Command not recognized: RebuildNavigation
+[2018.12.17-17.38.35:851][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.38.37:256][637]Cmd: RebuildNavigation
+[2018.12.17-17.38.37:264][637]Command not recognized: RebuildNavigation
+[2018.12.17-17.38.37:264][637]Cmd: RebuildNavigation
+[2018.12.17-17.38.37:271][637]Command not recognized: RebuildNavigation
+[2018.12.17-17.38.37:272][637]Cmd: RebuildNavigation
+[2018.12.17-17.38.37:278][637]Command not recognized: RebuildNavigation
+[2018.12.17-17.38.37:279][637]Cmd: RebuildNavigation
+[2018.12.17-17.38.37:287][637]Command not recognized: RebuildNavigation
+[2018.12.17-17.39.19:134][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.39.19:211][503]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.39.19:212][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.39.19:248][503]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-17.39.19:248][503]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.39.19:276][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.39.19:312][506]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.12.17-17.39.21:105][692]LogBlueprintUserMessages: [Person_C_0] 15
+[2018.12.17-17.39.23:884][ 13]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/Behaviours/Tasks/RandomLocation.RandomLocation
+[2018.12.17-17.41.04:626][869]BlueprintLog: New page: Compile RandomLocation
+[2018.12.17-17.41.05:118][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Behaviours/Tasks/RandomLocation" FILE="../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/AI/Behaviours/Tasks/RandomLocation.uasset" SILENT=true
+[2018.12.17-17.41.05:153][902]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Saved/RandomLocation609E15D2440CA3D7140F3FAF77549A7D.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/AI/Behaviours/Tasks/RandomLocation.uasset'
+[2018.12.17-17.41.09:224][356]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.17-17.41.09:245][356]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.41.09:246][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-17.41.09:246][356]PIE: New page: PIE session: Spaceship (17 Dec 2018 17:41:09)
+[2018.12.17-17.41.09:246][356]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Spaceship
+[2018.12.17-17.41.09:258][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012658s)
+[2018.12.17-17.41.09:259][356]LogAIModule: Creating AISystem for world Spaceship
+[2018.12.17-17.41.09:259][356]LogPlayLevel: PIE: World Init took: (0.000498s)
+[2018.12.17-17.41.09:259][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Spaceship.Spaceship to /Game/Maps/UEDPIE_0_Spaceship.Spaceship (0.013322s)
+[2018.12.17-17.41.09:304][356]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-17.41.09:315][356]LogInit: FAudioDevice initialized.
+[2018.12.17-17.41.09:345][356]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.17-17.41.09:355][356]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Spaceship.Spaceship up for play (max tick rate 0) at 2018.12.17-17.41.09
+[2018.12.17-17.41.09:358][356]LogWorld: Bringing up level for play took: 0.011563
+[2018.12.17-17.41.09:374][356]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Spaceship 0.258
+[2018.12.17-17.41.09:374][356]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.41.11:307][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.41.11:406][593]Cmd: RebuildNavigation
+[2018.12.17-17.41.11:413][593]Command not recognized: RebuildNavigation
+[2018.12.17-17.41.11:414][593]Cmd: RebuildNavigation
+[2018.12.17-17.41.11:421][593]Command not recognized: RebuildNavigation
+[2018.12.17-17.41.11:422][593]Cmd: RebuildNavigation
+[2018.12.17-17.41.11:429][593]Command not recognized: RebuildNavigation
+[2018.12.17-17.41.11:429][593]Cmd: RebuildNavigation
+[2018.12.17-17.41.11:438][593]Command not recognized: RebuildNavigation
+[2018.12.17-17.41.14:972][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.41.48:293][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.41.48:397][855]Cmd: RebuildNavigation
+[2018.12.17-17.41.48:405][855]Command not recognized: RebuildNavigation
+[2018.12.17-17.41.59:589][957]LogEditorViewport: Clicking on Actor (LMB): BaseTile_C (BaseTile2)
+[2018.12.17-17.42.00:768][ 47]LogEditorViewport: Clicking on Actor (LMB): BaseTile_C (BaseTile6)
+[2018.12.17-17.42.01:693][114]LogEditorViewport: Clicking on Actor (LMB): BaseTile_C (BaseTile7)
+[2018.12.17-17.42.02:729][195]LogEditorViewport: Clicking on Actor (LMB): BaseTile_C (BaseTile6)
+[2018.12.17-17.42.03:860][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.42.03:976][279]Cmd: RebuildNavigation
+[2018.12.17-17.42.03:985][279]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.06:221][482]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.42.06:222][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.42.06:258][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-17.42.06:259][482]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.42.06:290][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.42.06:334][484]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.12.17-17.42.21:348][711]BlueprintLog: New page: Compile Door
+[2018.12.17-17.42.22:839][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TilePieces/Door" FILE="../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/TilePieces/Door.uasset" SILENT=true
+[2018.12.17-17.42.22:908][808]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Saved/Door0136C76C4245466771DF678DD4644B6E.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/TilePieces/Door.uasset'
+[2018.12.17-17.42.30:666][558]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.17-17.42.30:701][558]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.42.30:702][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-17.42.30:702][558]PIE: New page: PIE session: Spaceship (17 Dec 2018 17:42:30)
+[2018.12.17-17.42.30:702][558]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Spaceship
+[2018.12.17-17.42.30:714][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011682s)
+[2018.12.17-17.42.30:714][558]LogAIModule: Creating AISystem for world Spaceship
+[2018.12.17-17.42.30:714][558]LogPlayLevel: PIE: World Init took: (0.000450s)
+[2018.12.17-17.42.30:714][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Spaceship.Spaceship to /Game/Maps/UEDPIE_0_Spaceship.Spaceship (0.012299s)
+[2018.12.17-17.42.30:756][558]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-17.42.30:767][558]LogInit: FAudioDevice initialized.
+[2018.12.17-17.42.30:796][558]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.17-17.42.30:806][558]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Spaceship.Spaceship up for play (max tick rate 0) at 2018.12.17-17.42.30
+[2018.12.17-17.42.30:808][558]LogWorld: Bringing up level for play took: 0.011355
+[2018.12.17-17.42.30:826][558]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Spaceship -0.289
+[2018.12.17-17.42.30:826][558]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.42.33:458][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.42.33:600][887]Cmd: RebuildNavigation
+[2018.12.17-17.42.33:607][887]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.33:608][887]Cmd: RebuildNavigation
+[2018.12.17-17.42.33:615][887]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.33:615][887]Cmd: RebuildNavigation
+[2018.12.17-17.42.33:622][887]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.33:623][887]Cmd: RebuildNavigation
+[2018.12.17-17.42.33:630][887]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.34:506][992]Cmd: RebuildNavigation
+[2018.12.17-17.42.34:513][992]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.34:513][992]Cmd: RebuildNavigation
+[2018.12.17-17.42.34:521][992]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.34:521][992]Cmd: RebuildNavigation
+[2018.12.17-17.42.34:528][992]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.34:528][992]Cmd: RebuildNavigation
+[2018.12.17-17.42.34:536][992]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.35:449][ 99]Cmd: RebuildNavigation
+[2018.12.17-17.42.35:457][ 99]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.35:457][ 99]Cmd: RebuildNavigation
+[2018.12.17-17.42.35:465][ 99]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.35:466][ 99]Cmd: RebuildNavigation
+[2018.12.17-17.42.35:473][ 99]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.35:474][ 99]Cmd: RebuildNavigation
+[2018.12.17-17.42.35:481][ 99]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.37:304][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.42.39:816][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.42.39:955][581]Cmd: RebuildNavigation
+[2018.12.17-17.42.39:962][581]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.39:963][581]Cmd: RebuildNavigation
+[2018.12.17-17.42.39:971][581]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.39:971][581]Cmd: RebuildNavigation
+[2018.12.17-17.42.39:979][581]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.39:979][581]Cmd: RebuildNavigation
+[2018.12.17-17.42.39:988][581]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.41:051][697]Cmd: RebuildNavigation
+[2018.12.17-17.42.41:059][697]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.41:059][697]Cmd: RebuildNavigation
+[2018.12.17-17.42.41:066][697]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.41:066][697]Cmd: RebuildNavigation
+[2018.12.17-17.42.41:074][697]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.41:074][697]Cmd: RebuildNavigation
+[2018.12.17-17.42.41:081][697]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.41:468][734]Cmd: RebuildNavigation
+[2018.12.17-17.42.41:476][734]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.41:476][734]Cmd: RebuildNavigation
+[2018.12.17-17.42.41:483][734]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.41:483][734]Cmd: RebuildNavigation
+[2018.12.17-17.42.41:491][734]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.41:492][734]Cmd: RebuildNavigation
+[2018.12.17-17.42.41:499][734]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.42:189][805]Cmd: RebuildNavigation
+[2018.12.17-17.42.42:198][805]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.42:198][805]Cmd: RebuildNavigation
+[2018.12.17-17.42.42:206][805]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.42:206][805]Cmd: RebuildNavigation
+[2018.12.17-17.42.42:213][805]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.42:213][805]Cmd: RebuildNavigation
+[2018.12.17-17.42.42:221][805]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.42:638][845]Cmd: RebuildNavigation
+[2018.12.17-17.42.42:647][845]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.42:647][845]Cmd: RebuildNavigation
+[2018.12.17-17.42.42:655][845]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.42:656][845]Cmd: RebuildNavigation
+[2018.12.17-17.42.42:663][845]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.42:663][845]Cmd: RebuildNavigation
+[2018.12.17-17.42.42:671][845]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.42:969][873]Cmd: RebuildNavigation
+[2018.12.17-17.42.42:977][873]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.42:977][873]Cmd: RebuildNavigation
+[2018.12.17-17.42.42:985][873]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.42:986][873]Cmd: RebuildNavigation
+[2018.12.17-17.42.42:992][873]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.42:993][873]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:001][873]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:129][882]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:137][882]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:137][882]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:144][882]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:145][882]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:153][882]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:153][882]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:160][882]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:290][890]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:298][890]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:298][890]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:306][890]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:306][890]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:314][890]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:314][890]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:323][890]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:440][897]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:447][897]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:448][897]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:455][897]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:456][897]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:464][897]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:464][897]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:471][897]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:574][903]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:581][903]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:582][903]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:590][903]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:591][903]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:598][903]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:599][903]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:606][903]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:707][909]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:715][909]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:715][909]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:723][909]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:723][909]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:732][909]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:732][909]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:740][909]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:828][914]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:836][914]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:836][914]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:844][914]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:844][914]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:852][914]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:852][914]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:859][914]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:971][921]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:980][921]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:980][921]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:987][921]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:987][921]Cmd: RebuildNavigation
+[2018.12.17-17.42.43:995][921]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.43:995][921]Cmd: RebuildNavigation
+[2018.12.17-17.42.44:003][921]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.44:108][927]Cmd: RebuildNavigation
+[2018.12.17-17.42.44:116][927]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.44:117][927]Cmd: RebuildNavigation
+[2018.12.17-17.42.44:124][927]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.44:124][927]Cmd: RebuildNavigation
+[2018.12.17-17.42.44:132][927]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.44:132][927]Cmd: RebuildNavigation
+[2018.12.17-17.42.44:139][927]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.44:472][959]Cmd: RebuildNavigation
+[2018.12.17-17.42.44:480][959]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.44:480][959]Cmd: RebuildNavigation
+[2018.12.17-17.42.44:488][959]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.44:488][959]Cmd: RebuildNavigation
+[2018.12.17-17.42.44:496][959]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.44:496][959]Cmd: RebuildNavigation
+[2018.12.17-17.42.44:504][959]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.44:890][998]Cmd: RebuildNavigation
+[2018.12.17-17.42.44:897][998]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.44:898][998]Cmd: RebuildNavigation
+[2018.12.17-17.42.44:905][998]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.44:905][998]Cmd: RebuildNavigation
+[2018.12.17-17.42.44:913][998]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.44:913][998]Cmd: RebuildNavigation
+[2018.12.17-17.42.44:921][998]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.45:619][ 72]Cmd: RebuildNavigation
+[2018.12.17-17.42.45:626][ 72]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.45:627][ 72]Cmd: RebuildNavigation
+[2018.12.17-17.42.45:634][ 72]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.45:635][ 72]Cmd: RebuildNavigation
+[2018.12.17-17.42.45:642][ 72]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.45:643][ 72]Cmd: RebuildNavigation
+[2018.12.17-17.42.45:650][ 72]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.56:498][287]Cmd: RebuildNavigation
+[2018.12.17-17.42.56:506][287]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.56:507][287]Cmd: RebuildNavigation
+[2018.12.17-17.42.56:514][287]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.56:514][287]Cmd: RebuildNavigation
+[2018.12.17-17.42.56:521][287]Command not recognized: RebuildNavigation
+[2018.12.17-17.42.56:521][287]Cmd: RebuildNavigation
+[2018.12.17-17.42.56:529][287]Command not recognized: RebuildNavigation
+[2018.12.17-17.43.13:489][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.43.13:594][152]Cmd: RebuildNavigation
+[2018.12.17-17.43.13:602][152]Command not recognized: RebuildNavigation
+[2018.12.17-17.43.13:603][152]Cmd: RebuildNavigation
+[2018.12.17-17.43.13:610][152]Command not recognized: RebuildNavigation
+[2018.12.17-17.43.13:610][152]Cmd: RebuildNavigation
+[2018.12.17-17.43.13:617][152]Command not recognized: RebuildNavigation
+[2018.12.17-17.43.13:618][152]Cmd: RebuildNavigation
+[2018.12.17-17.43.13:626][152]Command not recognized: RebuildNavigation
+[2018.12.17-17.43.15:975][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.43.15:975][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.43.16:009][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-17.43.16:010][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.43.16:037][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.43.16:073][373]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.12.17-17.43.18:406][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Spaceship" FILE="../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/Maps/Spaceship.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.17-17.43.18:711][651]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Saved/Spaceship038BFEFC4D603DF2689C1D8018D28866.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/Maps/Spaceship.umap'
+[2018.12.17-17.43.18:751][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Spaceship_BuiltData" FILE="../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/Maps/Spaceship_BuiltData.uasset" SILENT=true
+[2018.12.17-17.43.18:774][651]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Saved/Spaceship_BuiltData6A8ECFF4410944631536F399CD26C12B.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/Maps/Spaceship_BuiltData.uasset'
+[2018.12.17-17.43.21:765][  4]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door4)
+[2018.12.17-17.43.23:166][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.43.27:389][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.43.30:541][717]BlueprintLog: New page: Compile Door
+[2018.12.17-17.43.31:175][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TilePieces/Door" FILE="../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/TilePieces/Door.uasset" SILENT=true
+[2018.12.17-17.43.31:254][740]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Saved/Door92BFB58F47465E9FB52DD489C36C30B9.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/TilePieces/Door.uasset'
+[2018.12.17-17.43.39:218][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.43.39:319][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Spaceship" FILE="../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/Maps/Spaceship.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.17-17.43.39:627][572]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Saved/SpaceshipE0A1FDC74B87640456B4BC8A500528E0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/Maps/Spaceship.umap'
+[2018.12.17-17.43.39:666][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Spaceship_BuiltData" FILE="../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/Maps/Spaceship_BuiltData.uasset" SILENT=true
+[2018.12.17-17.43.39:685][572]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Saved/Spaceship_BuiltData72CD3F1C428C909FB1749EA9A9B60243.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/Maps/Spaceship_BuiltData.uasset'
+[2018.12.17-17.43.46:568][381]LogEditorViewport: Clicking on Actor (LMB): BaseTile_C (BaseTile6)
+[2018.12.17-17.43.47:270][456]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.12.17-17.43.51:952][994]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.12.17-17.43.56:126][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.43.56:215][491]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/PlayerPawn.PlayerPawn
+[2018.12.17-17.44.08:698][337]BlueprintLog: New page: Compile PlayerPawn
+[2018.12.17-17.44.09:279][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/PlayerPawn" FILE="../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/TopDownBP/PlayerPawn.uasset" SILENT=true
+[2018.12.17-17.44.09:336][359]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Saved/PlayerPawn240BCC77427E0E36F258E9800930750B.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/TopDownBP/PlayerPawn.uasset'
+[2018.12.17-17.44.10:777][486]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.17-17.44.10:808][486]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.44.10:809][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-17.44.10:809][486]PIE: New page: PIE session: Spaceship (17 Dec 2018 17:44:10)
+[2018.12.17-17.44.10:809][486]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Spaceship
+[2018.12.17-17.44.10:822][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012917s)
+[2018.12.17-17.44.10:822][486]LogAIModule: Creating AISystem for world Spaceship
+[2018.12.17-17.44.10:822][486]LogPlayLevel: PIE: World Init took: (0.000547s)
+[2018.12.17-17.44.10:822][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Spaceship.Spaceship to /Game/Maps/UEDPIE_0_Spaceship.Spaceship (0.013630s)
+[2018.12.17-17.44.10:871][486]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-17.44.10:881][486]LogInit: FAudioDevice initialized.
+[2018.12.17-17.44.10:918][486]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.17-17.44.10:927][486]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Spaceship.Spaceship up for play (max tick rate 0) at 2018.12.17-17.44.10
+[2018.12.17-17.44.10:929][486]LogWorld: Bringing up level for play took: 0.010704
+[2018.12.17-17.44.10:946][486]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Spaceship -0.17
+[2018.12.17-17.44.10:946][486]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.44.43:670][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.44.43:763][411]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.44.43:770][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.44.43:807][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-17.44.43:808][411]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.44.43:837][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.44.43:865][413]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.17-17.44.44:843][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Spaceship" FILE="../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/Maps/Spaceship.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.17-17.44.45:151][528]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Saved/Spaceship32346B9848674253A1BD00AAF689B0D0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/Maps/Spaceship.umap'
+[2018.12.17-17.44.45:190][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Spaceship_BuiltData" FILE="../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/Maps/Spaceship_BuiltData.uasset" SILENT=true
+[2018.12.17-17.44.45:208][528]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Saved/Spaceship_BuiltData8F21724E418FD77888981C984F516DF1.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/Maps/Spaceship_BuiltData.uasset'
+[2018.12.17-17.45.47:898][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/PlayerPawn" FILE="../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/TopDownBP/PlayerPawn.uasset" SILENT=true
+[2018.12.17-17.45.47:948][394]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Saved/PlayerPawn636809814B60FEE5611B5DA78B2BC1E6.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/PGAI/Content/TopDownBP/PlayerPawn.uasset'
+[2018.12.17-17.50.51:466][ 52]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:58724).
+[2018.12.17-17.50.51:466][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-17.50.52:995][227]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.17-17.50.53:022][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.50.53:022][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.17-17.50.53:022][227]LogHMD: Initializing OVRPlugin session
+[2018.12.17-17.50.53:075][227]PIE: New page: PIE session: Spaceship (17 Dec 2018 17:50:53)
+[2018.12.17-17.50.53:075][227]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Spaceship
+[2018.12.17-17.50.53:087][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012021s)
+[2018.12.17-17.50.53:088][227]LogAIModule: Creating AISystem for world Spaceship
+[2018.12.17-17.50.53:088][227]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2018.12.17-17.50.53:088][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Spaceship.Spaceship to /Game/Maps/UEDPIE_0_Spaceship.Spaceship (0.012891s)
+[2018.12.17-17.50.53:129][227]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.17-17.50.53:141][227]LogInit: FAudioDevice initialized.
+[2018.12.17-17.50.53:141][227]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-17.50.53:176][227]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.12.17-17.50.53:185][227]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Spaceship.Spaceship up for play (max tick rate 0) at 2018.12.17-17.50.53
+[2018.12.17-17.50.53:188][227]LogWorld: Bringing up level for play took: 0.011369
+[2018.12.17-17.50.53:203][227]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Spaceship 0.089
+[2018.12.17-17.50.53:204][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.51.01:429][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.51.01:537][224]Cmd: RebuildNavigation
+[2018.12.17-17.51.01:545][224]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.01:546][224]Cmd: RebuildNavigation
+[2018.12.17-17.51.01:553][224]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.01:553][224]Cmd: RebuildNavigation
+[2018.12.17-17.51.01:562][224]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.01:562][224]Cmd: RebuildNavigation
+[2018.12.17-17.51.01:568][224]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.02:883][382]Cmd: RebuildNavigation
+[2018.12.17-17.51.02:890][382]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.02:891][382]Cmd: RebuildNavigation
+[2018.12.17-17.51.02:898][382]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.02:898][382]Cmd: RebuildNavigation
+[2018.12.17-17.51.02:905][382]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.02:906][382]Cmd: RebuildNavigation
+[2018.12.17-17.51.02:914][382]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.04:028][516]Cmd: RebuildNavigation
+[2018.12.17-17.51.04:035][516]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.04:035][516]Cmd: RebuildNavigation
+[2018.12.17-17.51.04:043][516]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.04:045][516]Cmd: RebuildNavigation
+[2018.12.17-17.51.04:052][516]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.04:052][516]Cmd: RebuildNavigation
+[2018.12.17-17.51.04:060][516]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.19:224][336]Cmd: RebuildNavigation
+[2018.12.17-17.51.19:231][336]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.19:231][336]Cmd: RebuildNavigation
+[2018.12.17-17.51.19:238][336]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.19:238][336]Cmd: RebuildNavigation
+[2018.12.17-17.51.19:247][336]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.19:247][336]Cmd: RebuildNavigation
+[2018.12.17-17.51.19:255][336]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.21:818][644]Cmd: RebuildNavigation
+[2018.12.17-17.51.21:826][644]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.21:826][644]Cmd: RebuildNavigation
+[2018.12.17-17.51.21:834][644]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.21:834][644]Cmd: RebuildNavigation
+[2018.12.17-17.51.21:842][644]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.21:843][644]Cmd: RebuildNavigation
+[2018.12.17-17.51.21:850][644]Command not recognized: RebuildNavigation
+[2018.12.17-17.51.31:413][791]Cmd: LevelEditor.ToggleImmersive
+[2018.12.17-17.51.33:911][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.51.43:176][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-17.52.03:681][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.52.03:799][835]Cmd: RebuildNavigation
+[2018.12.17-17.52.03:806][835]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.03:806][835]Cmd: RebuildNavigation
+[2018.12.17-17.52.03:814][835]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.03:814][835]Cmd: RebuildNavigation
+[2018.12.17-17.52.03:822][835]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.03:823][835]Cmd: RebuildNavigation
+[2018.12.17-17.52.03:829][835]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.05:877][ 61]Cmd: RebuildNavigation
+[2018.12.17-17.52.05:884][ 61]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.05:884][ 61]Cmd: RebuildNavigation
+[2018.12.17-17.52.05:891][ 61]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.05:892][ 61]Cmd: RebuildNavigation
+[2018.12.17-17.52.05:899][ 61]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.05:899][ 61]Cmd: RebuildNavigation
+[2018.12.17-17.52.05:905][ 61]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.07:670][238]Cmd: RebuildNavigation
+[2018.12.17-17.52.07:677][238]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.07:677][238]Cmd: RebuildNavigation
+[2018.12.17-17.52.07:684][238]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.07:685][238]Cmd: RebuildNavigation
+[2018.12.17-17.52.07:692][238]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.07:692][238]Cmd: RebuildNavigation
+[2018.12.17-17.52.07:699][238]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.08:227][286]Cmd: RebuildNavigation
+[2018.12.17-17.52.08:234][286]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.08:234][286]Cmd: RebuildNavigation
+[2018.12.17-17.52.08:241][286]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.08:241][286]Cmd: RebuildNavigation
+[2018.12.17-17.52.08:247][286]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.08:248][286]Cmd: RebuildNavigation
+[2018.12.17-17.52.08:255][286]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.08:836][338]Cmd: RebuildNavigation
+[2018.12.17-17.52.08:843][338]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.08:843][338]Cmd: RebuildNavigation
+[2018.12.17-17.52.08:850][338]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.08:850][338]Cmd: RebuildNavigation
+[2018.12.17-17.52.08:857][338]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.08:857][338]Cmd: RebuildNavigation
+[2018.12.17-17.52.08:864][338]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.09:287][375]Cmd: RebuildNavigation
+[2018.12.17-17.52.09:295][375]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.09:295][375]Cmd: RebuildNavigation
+[2018.12.17-17.52.09:303][375]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.09:303][375]Cmd: RebuildNavigation
+[2018.12.17-17.52.09:310][375]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.09:310][375]Cmd: RebuildNavigation
+[2018.12.17-17.52.09:317][375]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.15:701][997]LogEditorViewport: Clicking on Actor (LMB): BaseTile_C (BaseTile2)
+[2018.12.17-17.52.16:854][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.52.17:001][ 79]Cmd: RebuildNavigation
+[2018.12.17-17.52.17:010][ 79]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.17:010][ 79]Cmd: RebuildNavigation
+[2018.12.17-17.52.17:017][ 79]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.17:017][ 79]Cmd: RebuildNavigation
+[2018.12.17-17.52.17:024][ 79]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.17:024][ 79]Cmd: RebuildNavigation
+[2018.12.17-17.52.17:032][ 79]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.19:192][243]Cmd: RebuildNavigation
+[2018.12.17-17.52.19:200][243]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.19:200][243]Cmd: RebuildNavigation
+[2018.12.17-17.52.19:207][243]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.19:207][243]Cmd: RebuildNavigation
+[2018.12.17-17.52.19:214][243]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.19:214][243]Cmd: RebuildNavigation
+[2018.12.17-17.52.19:221][243]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.21:565][454]LogEditorViewport: Clicking on Actor (LMB): BaseTile_C (BaseTile2)
+[2018.12.17-17.52.23:317][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.52.24:498][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.52.26:596][902]Cmd: LevelEditor.ToggleImmersive
+[2018.12.17-17.52.26:782][907]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-17.52.29:395][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.52.29:461][229]Cmd: RebuildNavigation
+[2018.12.17-17.52.29:470][229]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.29:471][229]Cmd: RebuildNavigation
+[2018.12.17-17.52.29:478][229]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.29:478][229]Cmd: RebuildNavigation
+[2018.12.17-17.52.29:485][229]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.29:485][229]Cmd: RebuildNavigation
+[2018.12.17-17.52.29:493][229]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.31:299][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.52.31:399][458]Cmd: RebuildNavigation
+[2018.12.17-17.52.31:407][458]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.31:407][458]Cmd: RebuildNavigation
+[2018.12.17-17.52.31:414][458]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.31:415][458]Cmd: RebuildNavigation
+[2018.12.17-17.52.31:422][458]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.31:422][458]Cmd: RebuildNavigation
+[2018.12.17-17.52.31:429][458]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.31:692][490]Cmd: RebuildNavigation
+[2018.12.17-17.52.31:699][490]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.31:699][490]Cmd: RebuildNavigation
+[2018.12.17-17.52.31:706][490]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.31:707][490]Cmd: RebuildNavigation
+[2018.12.17-17.52.31:714][490]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.31:714][490]Cmd: RebuildNavigation
+[2018.12.17-17.52.31:721][490]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.32:027][527]Cmd: RebuildNavigation
+[2018.12.17-17.52.32:034][527]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.32:035][527]Cmd: RebuildNavigation
+[2018.12.17-17.52.32:042][527]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.32:042][527]Cmd: RebuildNavigation
+[2018.12.17-17.52.32:049][527]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.32:049][527]Cmd: RebuildNavigation
+[2018.12.17-17.52.32:056][527]Command not recognized: RebuildNavigation
+[2018.12.17-17.52.38:903][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.53.15:075][686]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.53.15:083][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.53.15:150][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.17-17.53.15:150][686]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Spaceship.Spaceship:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship' with GeneratedClass '/Game/Maps/Spaceship.Spaceship_C' with ClassGeneratedBy '/Game/Maps/Spaceship.Spaceship:PersistentLevel.Spaceship'
+[2018.12.17-17.53.15:180][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-17.53.15:190][687]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.12.17-17.53.16:756][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-17.57.07:270][614]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Spaceship' took 0.029
+[2018.12.17-18.49.16:563][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-18.50.53:678][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-18.50.54:065][830]LogSlate: Window 'PlayerPawn' being destroyed
+[2018.12.17-18.50.54:074][830]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.17-18.50.54:127][830]LogSlate: Window 'PGAI - Unreal Editor' being destroyed
+[2018.12.17-18.50.54:128][830]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.17-18.50.54:324][831]Cmd: QUIT_EDITOR
+[2018.12.17-18.50.54:918][831]LogExit: Preparing to exit.
+[2018.12.17-18.50.55:908][831]LogExit: Editor shut down
+[2018.12.17-18.50.55:908][831]LogExit: Transaction tracking system shut down
+[2018.12.17-18.50.56:219][831]LogExit: Object subsystem successfully closed.
+[2018.12.17-18.50.56:232][831]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.17-18.50.56:235][831]LogD3D11RHI: Shutdown
+[2018.12.17-18.50.56:235][831]LogD3D11RHI: CleanupD3DDevice
+[2018.12.17-18.50.56:238][831]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.17-18.50.56:258][831]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (630)
+[2018.12.17-18.50.56:258][831]LogModuleManager: Shutting down and abandoning module BlueprintGraph (628)
+[2018.12.17-18.50.56:258][831]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2018.12.17-18.50.56:258][831]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2018.12.17-18.50.56:258][831]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2018.12.17-18.50.56:258][831]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2018.12.17-18.50.56:258][831]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2018.12.17-18.50.56:258][831]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2018.12.17-18.50.56:258][831]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2018.12.17-18.50.56:258][831]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2018.12.17-18.50.56:259][831]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2018.12.17-18.50.56:260][831]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2018.12.17-18.50.56:260][831]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2018.12.17-18.50.56:260][831]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2018.12.17-18.50.56:260][831]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2018.12.17-18.50.56:260][831]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2018.12.17-18.50.56:260][831]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2018.12.17-18.50.56:739][831]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2018.12.17-18.50.56:739][831]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2018.12.17-18.50.56:739][831]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2018.12.17-18.50.56:739][831]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2018.12.17-18.50.56:739][831]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2018.12.17-18.50.56:739][831]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.12.17-18.50.56:739][831]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.12.17-18.50.56:739][831]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.12.17-18.50.56:739][831]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.12.17-18.50.56:739][831]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.12.17-18.50.56:739][831]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.12.17-18.50.56:739][831]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.12.17-18.50.56:739][831]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.12.17-18.50.56:739][831]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.12.17-18.50.56:739][831]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.12.17-18.50.56:740][831]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.12.17-18.50.56:740][831]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.12.17-18.50.56:740][831]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.12.17-18.50.56:740][831]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.12.17-18.50.56:740][831]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.12.17-18.50.56:740][831]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.12.17-18.50.56:740][831]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.12.17-18.50.56:740][831]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.12.17-18.50.56:795][831]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.12.17-18.50.56:795][831]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.12.17-18.50.56:795][831]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.12.17-18.50.56:795][831]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.12.17-18.50.56:795][831]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.12.17-18.50.56:795][831]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.12.17-18.50.56:795][831]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.12.17-18.50.56:795][831]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.12.17-18.50.56:795][831]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.12.17-18.50.56:795][831]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.12.17-18.50.56:800][831]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.12.17-18.50.56:800][831]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.12.17-18.50.56:800][831]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.12.17-18.50.56:800][831]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.12.17-18.50.56:800][831]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.12.17-18.50.56:800][831]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.12.17-18.50.56:800][831]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.12.17-18.50.56:800][831]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.12.17-18.50.56:801][831]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.12.17-18.50.56:801][831]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.12.17-18.50.56:801][831]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.12.17-18.50.56:801][831]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.12.17-18.50.56:801][831]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.12.17-18.50.56:801][831]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.12.17-18.50.56:801][831]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.12.17-18.50.56:801][831]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.12.17-18.50.56:801][831]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.12.17-18.50.56:801][831]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.12.17-18.50.56:801][831]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.12.17-18.50.56:801][831]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.12.17-18.50.56:801][831]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2018.12.17-18.50.56:801][831]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2018.12.17-18.50.56:803][831]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.17-18.50.56:824][831]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.17-18.50.56:824][831]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.17-18.50.56:824][831]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.17-18.50.56:824][831]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.17-18.50.56:824][831]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.17-18.50.56:824][831]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.17-18.50.56:824][831]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.17-18.50.56:824][831]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.17-18.50.56:824][831]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.17-18.50.56:824][831]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.17-18.50.56:824][831]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.17-18.50.56:824][831]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.17-18.50.56:824][831]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.17-18.50.56:824][831]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.17-18.50.56:824][831]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.12.17-18.50.56:824][831]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.12.17-18.50.56:824][831]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.17-18.50.56:827][831]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.17-18.50.56:828][831]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.17-18.50.56:929][831]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.17-18.50.57:030][831]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.17-18.50.57:030][831]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.17-18.50.57:030][831]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.17-18.50.57:030][831]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.17-18.50.57:030][831]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.17-18.50.57:030][831]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.17-18.50.57:030][831]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.17-18.50.57:030][831]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.17-18.50.57:030][831]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.17-18.50.57:031][831]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.17-18.50.57:031][831]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.17-18.50.57:031][831]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.17-18.50.57:032][831]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.17-18.50.57:032][831]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.17-18.50.57:032][831]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.17-18.50.57:032][831]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.17-18.50.57:032][831]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.17-18.50.57:032][831]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2018.12.17-18.50.57:032][831]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2018.12.17-18.50.57:033][831]LogModuleManager: Shutting down and abandoning module Media (241)
+[2018.12.17-18.50.57:039][831]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2018.12.17-18.50.57:039][831]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2018.12.17-18.50.57:039][831]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2018.12.17-18.50.57:039][831]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2018.12.17-18.50.57:039][831]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2018.12.17-18.50.57:039][831]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2018.12.17-18.50.57:039][831]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2018.12.17-18.50.57:039][831]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2018.12.17-18.50.57:039][831]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2018.12.17-18.50.57:039][831]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2018.12.17-18.50.57:039][831]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2018.12.17-18.50.57:039][831]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2018.12.17-18.50.57:039][831]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2018.12.17-18.50.57:039][831]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2018.12.17-18.50.57:040][831]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2018.12.17-18.50.57:040][831]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2018.12.17-18.50.57:040][831]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2018.12.17-18.50.57:040][831]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2018.12.17-18.50.57:040][831]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2018.12.17-18.50.57:040][831]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2018.12.17-18.50.57:041][831]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2018.12.17-18.50.57:041][831]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2018.12.17-18.50.57:041][831]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2018.12.17-18.50.57:041][831]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2018.12.17-18.50.57:041][831]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2018.12.17-18.50.57:041][831]LogModuleManager: Shutting down and abandoning module Core (186)
+[2018.12.17-18.50.57:041][831]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2018.12.17-18.50.57:041][831]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2018.12.17-18.50.57:041][831]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2018.12.17-18.50.57:042][831]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2018.12.17-18.50.57:042][831]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2018.12.17-18.50.57:042][831]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2018.12.17-18.50.57:042][831]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2018.12.17-18.50.57:042][831]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2018.12.17-18.50.57:042][831]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2018.12.17-18.50.57:042][831]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2018.12.17-18.50.57:042][831]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2018.12.17-18.50.57:042][831]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2018.12.17-18.50.57:061][831]LogDerivedDataCache: Shutdown
+[2018.12.17-18.50.57:061][831]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2018.12.17-18.50.57:061][831]LogXGEController: Cleaning working directory: C:/Users/James/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.17-18.50.57:061][831]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2018.12.17-18.50.57:061][831]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2018.12.17-18.50.57:061][831]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2018.12.17-18.50.57:061][831]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2018.12.17-18.50.57:061][831]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2018.12.17-18.50.57:061][831]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2018.12.17-18.50.57:061][831]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2018.12.17-18.50.57:062][831]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2018.12.17-18.50.57:062][831]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2018.12.17-18.50.57:062][831]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2018.12.17-18.50.57:062][831]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2018.12.17-18.50.57:062][831]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2018.12.17-18.50.57:062][831]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2018.12.17-18.50.57:062][831]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2018.12.17-18.50.57:062][831]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2018.12.17-18.50.57:062][831]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2018.12.17-18.50.57:062][831]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2018.12.17-18.50.57:062][831]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2018.12.17-18.50.57:062][831]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2018.12.17-18.50.57:062][831]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2018.12.17-18.50.57:062][831]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2018.12.17-18.50.57:062][831]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.12.17-18.50.57:063][831]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.12.17-18.50.57:063][831]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.12.17-18.50.57:064][831]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.12.17-18.50.57:064][831]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2018.12.17-18.50.57:070][831]LogHMD: Freeing OpenVRDLLHandle.
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2018.12.17-18.50.57:070][831]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2018.12.17-18.50.57:071][831]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2018.12.17-18.50.57:071][831]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2018.12.17-18.50.57:077][831]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2018.12.17-18.50.57:077][831]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.17-18.50.57:077][831]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB05751C9-4E31-F7DE-905F-06AFA8F6BCD6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=263b8caa4dd1473a23dd419ecda430b4%7C6d4b37c1fab2402f9183580507c8ee3a%7Cd5f7cd83-7bd0-489b-88ad-f06f5993463b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.17-18.50.57:078][831]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2018.12.17-18.50.57:080][831]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2018.12.17-18.50.57:080][831]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2018.12.17-18.50.57:080][831]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2018.12.17-18.50.57:080][831]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2018.12.17-18.50.57:080][831]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2018.12.17-18.50.57:080][831]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2018.12.17-18.50.57:080][831]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2018.12.17-18.50.57:080][831]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.17-18.50.57:080][831]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2018.12.17-18.50.57:080][831]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2018.12.17-18.50.57:080][831]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.17-18.50.57:080][831]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.17-18.50.57:080][831]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.17-18.50.57:080][831]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.17-18.50.57:080][831]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.17-18.50.57:080][831]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.17-18.50.57:080][831]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.17-18.50.57:081][831]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.17-18.50.57:081][831]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.17-18.50.57:081][831]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.17-18.50.57:081][831]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.17-18.50.57:081][831]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.17-18.50.57:081][831]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.17-18.50.57:081][831]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.17-18.50.57:081][831]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.17-18.50.57:081][831]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.17-18.50.57:081][831]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.17-18.50.57:081][831]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.17-18.50.57:087][831]LogExit: Exiting.
+[2018.12.17-18.50.57:095][831]Log file closed, 12/17/18 18:50:57
